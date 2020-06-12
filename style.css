@@ -1,0 +1,25 @@
+.form {
+  padding-top: 20px;
+  margin: auto;
+  width: 500px;
+  height: 600px;
+  text-align: center;
+}
+
+body {
+  font-family: "Balsamiq Sans", cursive;
+}
+
+#twit {
+  border-radius: 5px;
+}
+
+.submit {
+  margin-left: 200px;
+  width: 100px;
+  height: 30px;
+  background-color: #792359;
+  color: cornsilk;
+  padding: 0;
+  border-radius: 5px;
+}
